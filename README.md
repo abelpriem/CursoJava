@@ -15,7 +15,7 @@
     - Ejercicio 5
     - Ejercicio 6
 
-### Expresiones
+### Expresiones (OK)
 
     - Ejercicio 7
     - Ejercicio 8
