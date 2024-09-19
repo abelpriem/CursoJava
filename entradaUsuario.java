@@ -22,18 +22,20 @@ public class entradaUsuario {
                 "Hola " + name + ". Tienes " + age + " años." + " Tu estatura es de " + height
                         + "cm y tu color favorito es el " + color);
 
+        last(scanner);
         scanner.close();
-
-        last(args);
     }
 
-    public static void last(String[] args) {
-        int x = 155;
-        int y = 2000;
+    // Pasamos scanner como parámetro
+    public static void last(Scanner scanner) {
+        System.out.println("Introduzca el primer número:");
+        int first = scanner.nextInt();
 
-        int suma = x + y;
+        System.out.println("Introduzca el segundo número a sumar:");
+        int second = scanner.nextInt();
 
-        System.out.println("Suma total:");
-        System.out.println(suma);
+        int result = first + second;
+
+        System.out.println("Suma total: " + result);
     }
 }

@@ -14,3 +14,8 @@
 
     - Ejercicio 5
     - Ejercicio 6
+
+### Expresiones
+
+    - Ejercicio 7
+    - Ejercicio 8
