@@ -5,7 +5,12 @@
     - Ejercicio 1
     - Ejercicio 2
 
-### Intercambiar dos variables
+### Intercambiar dos variables (OK)
 
     - Ejercicio 3
     - Ejercicio 4
+
+### Entrada de Usuario (OK)
+
+    - Ejercicio 5
+    - Ejercicio 6
