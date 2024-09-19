@@ -21,6 +21,7 @@ public class variables {
         firstCar = secondCar;
         secondCar = "Opel";
 
-        System.out.println("firstCar: " + firstCar + " - " + "secondCar: " + secondCar);
+        System.out.println(firstCar);
+        System.out.println(secondCar);
     }
 }
