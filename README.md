@@ -49,3 +49,8 @@
 
     - Ejercicio 19
     - Ejercicio 20
+
+### Bucles while (OK)
+
+    - Ejercicio 21
+    - Ejercicio 22
