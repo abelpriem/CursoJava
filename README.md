@@ -59,3 +59,8 @@
 
     - Ejercicio 23
     - Ejercicio 24
+
+### Bucles anidados (PEND)
+
+    - Ejercicio 25 (OK)
+    - Ejercicio 26 (Pendiente)
