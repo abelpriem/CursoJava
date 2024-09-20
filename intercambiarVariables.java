@@ -2,7 +2,6 @@ package PROYECTOS.CursoJava;
 
 public class intercambiarVariables {
     public static void main(String[] args) {
-
         int x = 20;
         int y = 30;
 
