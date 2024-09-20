@@ -44,3 +44,8 @@
 
     - Ejercicio 17
     - Ejercicio 18
+
+### Operadores Lógicos (OK)
+
+    - Ejercicio 19
+    - Ejercicio 20
