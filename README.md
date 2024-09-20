@@ -39,3 +39,8 @@
 
     - Ejercicio 15
     - Ejercicio 16
+
+### Sentencias Switch (OK)
+
+    - Ejercicio 17
+    - Ejercicio 18
