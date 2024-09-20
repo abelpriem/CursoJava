@@ -69,3 +69,23 @@
 
     - Ejercicio 27 (Pendiente)
     - Ejercicio 28 (OK)
+
+### Arrays 2D (PEND)
+
+    - Ejercicio 29
+    - Ejercicio 30
+
+### Métodos de String (PEND)
+
+    - Ejercicio 31
+    - Ejercicio 32
+
+### Clases Wrapper (PEND)
+
+    - Ejercicio 33
+    - Ejercicio 34
+
+### Array List (PEND)
+
+    - Ejercicio 35
+    - Ejercicio 36
