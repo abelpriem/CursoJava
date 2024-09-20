@@ -34,3 +34,8 @@
 
     - Ejercicio 13 (OK)
     - Ejercicio 14 (Pendiente)
+
+### Sentencias IF (OK)
+
+    - Ejercicio 15
+    - Ejercicio 16
