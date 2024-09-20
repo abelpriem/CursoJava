@@ -29,3 +29,8 @@
 
     - Ejercicio 11
     - Ejercicio 12
+
+### Números aleatorios (PEND)
+
+    - Ejercicio 13 (OK)
+    - Ejercicio 14 (Pendiente)
