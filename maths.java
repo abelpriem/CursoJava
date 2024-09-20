@@ -1,5 +1,6 @@
 package PROYECTOS.CursoJava;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class maths {
@@ -20,6 +21,8 @@ public class maths {
 
         second(scanner);
         third(scanner);
+        random(args);
+
         scanner.close();
     }
 
@@ -54,5 +57,14 @@ public class maths {
         absolute = Math.abs(value);
 
         System.out.println("El absoluto de " + value + " es " + absolute);
+    }
+
+    public static void random(String[] args) {
+        Random random = new Random();
+
+        double x = random.nextDouble(12.55) + 4;
+
+        System.out.println("Número aleatorio: ");
+        System.out.println(x);
     }
 }
