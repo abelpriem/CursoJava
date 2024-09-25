@@ -2,19 +2,19 @@ package PROYECTOS.CursoJava;
 
 public class arrays {
     public static void main(String[] args) {
-        // PENDIENTE
-        String[] numbers = new String[5];
+        int numbers[] = { 2, 15, 11, 33, 8 };
+        int higher = 0;
 
-        numbers[0] = "2";
-        numbers[1] = "15";
-        numbers[2] = "11";
-        numbers[3] = "33";
-        numbers[4] = "8";
+        System.out.println("Buscar el elemento mayor de un Array: ");
 
         for (int i = 0; i < numbers.length; i++) {
-            System.out.println(numbers[i]);
+            if (numbers[i] > higher) {
+                higher = numbers[i];
+            }
         }
 
+        System.out.print(higher);
+        System.out.println();
         last(args);
     }
 
@@ -27,8 +27,10 @@ public class arrays {
         numbers[3] = "40";
         numbers[4] = "50";
 
+        System.out.println("Elementos de un Array en orden descendente: ");
+
         for (int i = numbers.length - 1; i >= 0; i--) {
-            System.out.println(numbers[i]);
+            System.out.print("[" + numbers[i] + "],");
         }
     }
 }

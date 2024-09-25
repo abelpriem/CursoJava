@@ -65,9 +65,9 @@
     - Ejercicio 25 (OK)
     - Ejercicio 26 (OK)
 
-### Arrays (PEND)
+### Arrays (OK)
 
-    - Ejercicio 27 (Pendiente)
+    - Ejercicio 27 (OK)
     - Ejercicio 28 (OK)
 
 ### Arrays 2D (PEND)
