@@ -62,30 +62,30 @@
 
 ### Bucles anidados (OK)
 
-    - Ejercicio 25 (OK)
-    - Ejercicio 26 (OK)
+    - Ejercicio 25
+    - Ejercicio 26
 
 ### Arrays (OK)
 
-    - Ejercicio 27 (OK)
-    - Ejercicio 28 (OK)
+    - Ejercicio 27
+    - Ejercicio 28
 
 ### Arrays 2D (PEND)
 
-    - Ejercicio 29
-    - Ejercicio 30
+    - Ejercicio 29 (Pend)
+    - Ejercicio 30 (Pend)
 
-### Métodos de String (PEND)
+### Métodos de String (OK)
 
     - Ejercicio 31
     - Ejercicio 32
 
 ### Clases Wrapper (PEND)
 
-    - Ejercicio 33
-    - Ejercicio 34
+    - Ejercicio 33 (Pend)
+    - Ejercicio 34 (Pend)
 
 ### Array List (PEND)
 
-    - Ejercicio 35
-    - Ejercicio 36
+    - Ejercicio 35 (Pend)
+    - Ejercicio 36 (Pend)
