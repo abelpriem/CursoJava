@@ -60,10 +60,10 @@
     - Ejercicio 23
     - Ejercicio 24
 
-### Bucles anidados (PEND)
+### Bucles anidados (OK)
 
     - Ejercicio 25 (OK)
-    - Ejercicio 26 (Pendiente)
+    - Ejercicio 26 (OK)
 
 ### Arrays (PEND)
 
