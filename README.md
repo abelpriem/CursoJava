@@ -85,7 +85,7 @@
     - Ejercicio 33
     - Ejercicio 34
 
-### Array List (PEND)
+### Array List (OK)
 
-    - Ejercicio 35 (Pend)
-    - Ejercicio 36 (Pend)
+    - Ejercicio 35
+    - Ejercicio 36
