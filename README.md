@@ -80,10 +80,10 @@
     - Ejercicio 31
     - Ejercicio 32
 
-### Clases Wrapper (PEND)
+### Clases Wrapper (OK)
 
-    - Ejercicio 33 (Pend)
-    - Ejercicio 34 (Pend)
+    - Ejercicio 33
+    - Ejercicio 34
 
 ### Array List (PEND)
 
